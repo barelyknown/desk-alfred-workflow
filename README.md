@@ -17,6 +17,10 @@ Name and switch between macOS Desktop Spaces via the `desk` keyword.
 
 Alternatively, use the `d` keyword.
 
+## Download
+
+[Download the workflow from GitHub Releases](https://github.com/barelyknown/desk-alfred-workflow/releases)
+
 ## Setup
 
 ### Requirements
